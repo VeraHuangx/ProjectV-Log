@@ -1,2 +1,2 @@
 # ProjectV-Log
-Log for ProjectV
+This is the log created to my weekly activities exploring new topics.
