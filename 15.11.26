@@ -1,0 +1,39 @@
+This week's activities, 15.11.26:
+
+Analysed data from an experiment. 
+Compared two models to identify which was more accurate for the data presented.
+Identified pattern for data.
+Identified anomalies and holes in the models.
+Wrote a conclusion for my findings.
+
+-
+
+Comes with files Cooling_Lab_Starter.xlsx and Cooling_Lab_40_Minutes.md
+
+
+The temperature always decreases by x/5 - 6 only for values above room temperature 
+If the container starts at exactly room temperature, its temperature should stay the same because there is no temperature difference between the container and the room. 
+
+
+It means it closes 30% of the gap between its temperature and the room temperature.
+
+Prediction A predicts a temperature below room temperature, which is not possible.
+Model B predicts that cooling depends on the temperature difference between the container and the room. It does not predict cooling when both temperatures are equal, so I choose B.
+
+
+The container will cool faster with the fan switched on because moving air increases heat transfer from the container.
+However, neither model will change its prediction because neither model includes air movement as an input.
+The fan caused an extra temperature drop of 6°C. (41-35)
+
+I would choose Test 1 with the fan on because the two ideas give different predictions.
+31-6=25*C
+35-20=15 ; 15x0.2=3 ; 31-3 =28*C
+Keep the room temperature at 20°C, the starting temperature at 35°C, the same time and use the same container and blanket.
+If the final temperature is close to 25°C, it would support Idea 1. If it is closer to 28°C, it would support Idea 2.
+
+
+Initially, my hypothesis thought the container would always lose the same number of degrees after ten minutes.
+Model A predicted a 9°C drop, but Model B predicted that the container would lose 30% of the temperature difference between it and the room.
+Model B was more accurate because its average error was only 0.50°C, compared with 5.50°C for Model A. It also made more sense because the container shouldn't cool below room temperature.
+However, Model B did not apply for the fan test.
+For my next experiment, I would try Test 1 again with the fan switched on. One idea predicts 25°C and the other predicts 28°C. I would keep everything else the same so it is a fair test.
